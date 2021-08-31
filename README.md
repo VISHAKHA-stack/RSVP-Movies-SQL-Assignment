@@ -11,3 +11,4 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 
 
 -- This is my first ever project!
+
